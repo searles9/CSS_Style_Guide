@@ -1,0 +1,96 @@
+body {
+    margin: 0 10%;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 23px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+p {
+    font-weight: 400;
+    font-size: 15px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.section-container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.section-sub-container {
+    width: 100%;
+}
+
+.color-panel {
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    display: inline-block;
+}
+
+.green1 {
+    background-color: #E8F3E8;
+}
+
+.green2 {
+    background-color: #92C591;
+}
+
+.green3 {
+    background-color: #559E54;
+}
+
+.green4 {
+    background-color: #305A30;
+    color: white;
+}
+
+.green5 {
+    background-color: #0A3409;
+    color: white;
+}
+
+.font-panel {
+    display: inline-block;
+    width: 45%;
+}
+
+.font-label {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.nunito-sans {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.arial {
+    font-family: Arial, sans-serif;
+}
+
+.verdana {
+    font-family: Verdana, sans-serif;
+}
